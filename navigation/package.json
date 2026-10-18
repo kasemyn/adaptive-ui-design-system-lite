@@ -1,0 +1,6 @@
+{
+  "main": "../lib/commonjs/navigation/index.js",
+  "module": "../lib/module/navigation/index.js",
+  "types": "../lib/typescript/commonjs/src/navigation/index.d.ts",
+  "react-native": "../lib/module/navigation/index.js"
+}

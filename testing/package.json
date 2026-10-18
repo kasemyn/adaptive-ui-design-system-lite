@@ -1,0 +1,6 @@
+{
+  "main": "../lib/commonjs/testing/index.js",
+  "module": "../lib/module/testing/index.js",
+  "types": "../lib/typescript/commonjs/src/testing/index.d.ts",
+  "react-native": "../lib/module/testing/index.js"
+}
